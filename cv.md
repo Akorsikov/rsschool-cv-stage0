@@ -2,8 +2,6 @@
 
 ## Contacts
 
----
-
 Phone: +79518284412  
 E-mail: akors@mail.ru  
 Discord: Akorsikov#2747  
@@ -11,33 +9,21 @@ Github: Akorsikov
 
 ---
 
----
-
 ## Bit about yourself!
-
----
 
 section in the process of writing  
 ...
 
 ---
 
----
-
 ## Education
-
----
 
 South Russian State Polytechnic University named after M.I. Platov (previously Novocherkassk Polytechnic Institute),
 specialty - Computing machines, complexes and networks (1993)
 
 ---
 
----
-
 ## Courses
-
----
 
 - HTML Academy (2018)
 
@@ -53,11 +39,7 @@ specialty - Computing machines, complexes and networks (1993)
 
 ---
 
----
-
 ## Skills
-
----
 
 - HTML
 - CSS
@@ -67,11 +49,7 @@ specialty - Computing machines, complexes and networks (1993)
 
 ---
 
----
-
 ## Example code
-
----
 
 ```
 function arrayDiff(a, b) {
@@ -90,11 +68,7 @@ return arr;
 
 ---
 
----
-
 ## Experience
-
----
 
 section in the process of writing  
 ...
@@ -104,15 +78,9 @@ section in the process of writing
 
 ---
 
----
-
 ## Languages
-
----
 
 Russian (native)  
 English (A1)
-
----
 
 ---
