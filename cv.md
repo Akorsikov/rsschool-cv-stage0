@@ -1,39 +1,79 @@
-Korsikov Aleksandr
+# Korsikov Aleksandr
 
-Contacts
-Phone: +79518284412
-E-mail: akors@mail.ru
-Discord: Akorsikov#2747
-Git: Akorsikov
+## Contacts
 
-Bit about yourself!
-section in the process of writing
+---
 
-Education
+Phone: +79518284412  
+E-mail: akors@mail.ru  
+Discord: Akorsikov#2747  
+Github: Akorsikov
+
+---
+
+---
+
+## Bit about yourself!
+
+---
+
+section in the process of writing  
+...
+
+---
+
+---
+
+## Education
+
+---
+
 South Russian State Polytechnic University named after M.I. Platov (previously Novocherkassk Polytechnic Institute),
 specialty - Computing machines, complexes and networks (1993)
 
-Courses
+---
 
-HTML Academy (2018)
-HTML
-CSS
+---
 
-Hexlet free courses (2021)
-Basics of content layout
-Basics of modern layout
-Introduction to Programming
-Introduction to the GIT
-Command Line Basics
+## Courses
 
-Skills
-HTML
-CSS
-JavaScript
-Git
-Figma
+---
 
-Example code
+- HTML Academy (2018)
+
+  - HTML
+  - CSS
+
+- Hexlet free courses (2021)
+  - Basics of content layout
+  - Basics of modern layout
+  - Introduction to Programming
+  - Introduction to the GIT
+  - Command Line Basics
+
+---
+
+---
+
+## Skills
+
+---
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- Figma
+
+---
+
+---
+
+## Example code
+
+---
+
+```
 function arrayDiff(a, b) {
   let arr = a;
   for (let i = 0; i < b.length; i++) {
@@ -46,10 +86,33 @@ function arrayDiff(a, b) {
   }
 return arr;
 }
+```
 
-Experience
-section in the process of writing
+---
 
-Languages
-Russian (native)
+---
+
+## Experience
+
+---
+
+section in the process of writing  
+...
+
+> _If you call failures experiments, you can put them in your resume and claim them as achievements._  
+> **Mason Cooley**
+
+---
+
+---
+
+## Languages
+
+---
+
+Russian (native)  
 English (A1)
+
+---
+
+---
