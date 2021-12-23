@@ -5,7 +5,7 @@
 Phone: +79518284412  
 E-mail: akors@mail.ru  
 Discord: Akorsikov#2747  
-Github: Akorsikov
+Github: Akorsikov (<https://github.com/Akorsikov/>)
 
 ---
 
