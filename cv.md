@@ -9,7 +9,7 @@ Github: Akorsikov (<https://github.com/Akorsikov/>)
 
 ---
 
-## Bit about yourself!
+## Bit about yourself
 
 section in the process of writing  
 ...
