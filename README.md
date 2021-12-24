@@ -2,4 +2,4 @@
 
 education project
 
-https://github.com/Akorsikov/rsschool-cv/cv
+https://github.com/Akorsikov/rsschool-cv/blob/gh-pages/cv
