@@ -1,5 +1,7 @@
 # Korsikov Aleksandr
 
+![my photo](/image/avatar.jpg)
+
 ## Contacts
 
 Phone: +79518284412  
