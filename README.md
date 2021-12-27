@@ -1,5 +1,3 @@
 # rsschool-cv
 
-education project
-
-https://github.com/Akorsikov/rsschool-cv/cv
+https://Akorsikov.github.io/rsschool-cv/
