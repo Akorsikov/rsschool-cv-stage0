@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Roboto;
+  src: url("./assets/fonts/Actor-Regular.ttf");
+}
+
 main {
   font: 14pt/21pt sans-serif;
   color: #555;
