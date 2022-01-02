@@ -72,6 +72,49 @@ h2 {
   color: #444444;
 }
 
+.profile {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 50px 200px 10px 150px;
+}
+
+.quote {
+  padding: 10px;
+  font-style: italic;
+}
+
+.line-profile {
+  width: 670px;
+  border-bottom: 3px solid #444444;
+}
+
+.block1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 205px 10px 150px;
+}
+
+.line-title {
+  width: 300px;
+  border-bottom: 3px solid #444444;
+}
+
+.block2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 75px 10px 150px;
+}
+
+.block3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 370px 10px 150px;
+}
+
 .photo {
   width: 207px;
   height: 306px;
@@ -99,9 +142,14 @@ h2 {
   font-weight: bold;
 }
 
+.copyright {
+  padding-left: 20px;
+}
+
 .rss {
   width: 121px;
   height: 45px;
+  padding-right: 20px;
   /*background-image: url("./assets/svg/rs_school_js.svg");
   background-size: contain;
   background-repeat: no-repeat;*/
