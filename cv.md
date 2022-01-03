@@ -1,6 +1,6 @@
 # Korsikov Aleksandr
 
-![my photo](/image/avatar.jpg)
+![my photo](./assets/image/avatar.jpg)
 
 ## Contacts
 
