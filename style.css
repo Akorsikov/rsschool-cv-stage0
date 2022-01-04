@@ -11,8 +11,6 @@ html {
 }
 
 body {
-  height: 60%;
-  /*min-height: 100%;*/
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -20,12 +18,6 @@ body {
   margin: 0;
   font: 1.5em "Actor", sans-serif;
 }
-
-/*.header,
-.main,
-.footer {
-  background-color: #e0e0e0;
-}*/
 
 .container {
   max-width: 1440px;
@@ -61,12 +53,11 @@ body {
 
 .main > .container {
   background-color: #cfcfcf;
-  max-height: 1440ox; /*calc(100vh - (80px + 100px));*/
 }
 
-.main,
 h1,
-h2 {
+h2,
+.main {
   color: #444444;
 }
 
