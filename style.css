@@ -1,13 +1,18 @@
 * {
   box-sizing: border-box;
 }
-* @font-face {
+@font-face {
   font-family: "Actor";
   src: url("./assets/fonts/Actor-Regular.ttf");
 }
 
+html {
+  background-color: #e0e0e0;
+}
+
 body {
-  min-height: 100vh;
+  height: 60%;
+  /*min-height: 100%;*/
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -16,11 +21,11 @@ body {
   font: 1.5em "Actor", sans-serif;
 }
 
-.header,
+/*.header,
 .main,
 .footer {
   background-color: #e0e0e0;
-}
+}*/
 
 .container {
   max-width: 1440px;
@@ -31,7 +36,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  height: 80px;
+  height: 20%;
   background-color: #b0b0b0;
 }
 
@@ -44,7 +49,7 @@ body {
 
 .menu-link {
   padding: 0 20px;
-  line-height: 100px;
+  line-height: 1.2em;
   font: 1.2em "Actor", sans-serif;
   color: #f2f2f2;
   text-decoration: none;
@@ -56,7 +61,7 @@ body {
 
 .main > .container {
   background-color: #cfcfcf;
-  height: calc(100vh - (80px + 100px));
+  max-height: 1440ox; /*calc(100vh - (80px + 100px));*/
 }
 
 .main,
@@ -125,7 +130,7 @@ h2 {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 100px;
+  height: 200px;
   color: #000000;
   background-color: #b0b0b0;
 }
