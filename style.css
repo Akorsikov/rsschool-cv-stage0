@@ -2,8 +2,8 @@
   box-sizing: border-box;
 }
 @font-face {
-  font-family: "Actor";
-  src: url("./assets/fonts/Actor-Regular.ttf");
+  font-family: "Ubuntu";
+  src: url("./assets/fonts/Ubuntu-Regular.ttf");
 }
 
 html {
@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   padding: 0;
   margin: 0;
-  font: 1.5em "Actor", sans-serif;
+  font: 1.5em "Ubuntu", sans-serif;
 }
 
 .container {
@@ -40,9 +40,9 @@ body {
 }
 
 .menu-link {
-  padding: 0 20px;
+  margin-right: 40px;
   line-height: 1.2em;
-  font: 1.2em "Actor", sans-serif;
+  font: 1.2em "Ubutu", sans-serif;
   color: #f2f2f2;
   text-decoration: none;
 }
@@ -71,6 +71,10 @@ h2,
 .quote {
   padding: 10px;
   font-style: italic;
+}
+
+.quote span {
+  line-height: 3em;
 }
 
 .line-profile {
@@ -138,10 +142,22 @@ h2,
 
 .copyright {
   padding-left: 20px;
+  font: 1em "Ubuntu", sans-serif;
+}
+
+.footer-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.footer-link a {
+  padding-right: 30px;
 }
 
 .rss {
   width: 121px;
   height: 45px;
-  padding-right: 20px;
+  margin-left: 10px;
+  margin-right: 40px;
 }
